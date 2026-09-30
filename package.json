@@ -1,0 +1,21 @@
+{
+  "name": "ray-book-management-api",
+  "version": "1.0.0",
+  "description": "Assignment 4 backend API submission by Ray Gadliauskas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite3",
+    "rest-api",
+    "books"
+  ],
+  "author": "Ray Gadliauskas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
